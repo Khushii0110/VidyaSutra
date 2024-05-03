@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: vidyasutra
+Version: 0.1.0
+Summary: A machine learning library for data manipulation, preprocessing, and model training.
+Home-page: https://github.com/yourusername/vidyasutra
+Author: Khushi Tiwari
+Author-email: khushitiwari014@gmail.com
+Classifier: Programming Language :: Python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.6
+Description-Content-Type: text/markdown
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: scikit-learn
+
+# VidyaSutra
+
+## Overview:
+
+VidyaSutra is a machine learning library that provides a unified interface for common machine learning tasks such as data manipulation, preprocessing, and model training. It integrates functionalities from Pandas, NumPy, and scikit-learn to streamline the machine learning workflow.
+
+## Installation:
+
+To install VidyaSutra, simply use pip:
+
+```bash
+pip install vidyasutra
+

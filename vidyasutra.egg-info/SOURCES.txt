@@ -1,0 +1,7 @@
+README.md
+setup.py
+vidyasutra.egg-info/PKG-INFO
+vidyasutra.egg-info/SOURCES.txt
+vidyasutra.egg-info/dependency_links.txt
+vidyasutra.egg-info/requires.txt
+vidyasutra.egg-info/top_level.txt
